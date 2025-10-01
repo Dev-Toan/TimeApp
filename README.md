@@ -7,16 +7,24 @@
 - Theo dõi tiến độ, thời lượng thực hiện
 - Lịch/nhắc việc (notification)
 - Tổng hợp báo cáo theo ngày/tuần/tháng
-  <img width="539" height="985" alt="image" src="https://github.com/user-attachments/assets/98687020-9778-4432-917f-3d57a80ffed2" />
-  <img width="540" height="980" alt="image" src="https://github.com/user-attachments/assets/1c0d51bf-8a31-4d63-8aed-c2160f431dba" />
-  <img width="545" height="987" alt="image" src="https://github.com/user-attachments/assets/f28a22ce-3fb6-4493-a7cb-1b022b851cad" />
-  <img width="543" height="988" alt="image" src="https://github.com/user-attachments/assets/8fe3e171-671d-41d9-bf73-635aba35fd0a" />
-  <img width="542" height="984" alt="image" src="https://github.com/user-attachments/assets/3bd128d8-b6d6-4e54-b4fa-03116cc5e81c" />
-  <img width="544" height="990" alt="image" src="https://github.com/user-attachments/assets/4b9d165b-5e00-424c-b27d-e2dc3460451e" />
-  <img width="546" height="987" alt="image" src="https://github.com/user-attachments/assets/e371befd-5dff-46e6-ab4e-2e0c13503a34" />
-  <img width="544" height="982" alt="image" src="https://github.com/user-attachments/assets/a6a66003-8235-4a41-9cfc-beea1286802c" />
-  <img width="538" height="984" alt="image" src="https://github.com/user-attachments/assets/4a76add6-82da-4163-836f-cecc69d7160a" />
-  <img width="540" height="984" alt="image" src="https://github.com/user-attachments/assets/2589ad8e-5581-4f17-90aa-544309964b38" />
+## 📸 Screenshots
+<p align="center">
+  <img width="250" src="https://github.com/user-attachments/assets/1c0d51bf-8a31-4d63-8aed-c2160f431dba"/>
+  <img width="250" src="https://github.com/user-attachments/assets/f28a22ce-3fb6-4493-a7cb-1b022b851cad"/>
+  <img width="250" src="https://github.com/user-attachments/assets/8fe3e171-671d-41d9-bf73-635aba35fd0a"/>
+</p>
+
+<p align="center">
+  <img width="250" src="https://github.com/user-attachments/assets/3bd128d8-b6d6-4e54-b4fa-03116cc5e81c"/>
+  <img width="250" src="https://github.com/user-attachments/assets/4b9d165b-5e00-424c-b27d-e2dc3460451e"/>
+  <img width="250" src="https://github.com/user-attachments/assets/e371befd-5dff-46e6-ab4e-2e0c13503a34"/>
+</p>
+
+<p align="center">
+  <img width="250" src="https://github.com/user-attachments/assets/a6a66003-8235-4a41-9cfc-beea1286802c"/>
+  <img width="250" src="https://github.com/user-attachments/assets/4a76add6-82da-4163-836f-cecc69d7160a"/>
+  <img width="250" src="https://github.com/user-attachments/assets/2589ad8e-5581-4f17-90aa-544309964b38"/>
+</p>
 
 
 
