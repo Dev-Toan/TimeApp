@@ -65,16 +65,4 @@ settings.gradle.kts     # Thiết lập multi-module
 build.gradle.kts        # Cấu hình cấp project
 ```
 
-## Kiểm thử, chất lượng mã (tuỳ chỉnh theo dự án)
-```bash
-./gradlew.bat test
-./gradlew.bat lint
-```
 
-## Đóng góp
-- Tạo nhánh từ `main`
-- Commit message rõ ràng, gọn
-- Mở Pull Request kèm mô tả, ảnh minh hoạ khi cần
-
-## Giấy phép
-Xem file `LICENSE` trong thư mục gốc dự án.
